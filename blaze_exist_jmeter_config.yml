@@ -1,0 +1,10 @@
+execution:
+  - scenario: simple
+
+scenarios:
+  simple:
+    script: SimpleTestPlan.jmx
+
+modules:
+  jmeter:
+    version: 5.0
